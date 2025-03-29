@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Book outline -->
+  <path d="M120 350 L256 400 L392 350 L392 150 L256 100 L120 150 Z" stroke="#333333" stroke-width="10" fill="none"/>
+  <path d="M256 400 L256 100" stroke="#333333" stroke-width="5" fill="none"/>
+  
+  <!-- Brain -->
+  <ellipse cx="256" cy="200" rx="80" ry="70" fill="#FFC0CB"/>
+  
+  <!-- Brain details -->
+  <path d="M226 180 Q220 170, 226 160" stroke="#FFB0B0" stroke-width="4"/>
+  <path d="M286 180 Q292 170, 286 160" stroke="#FFB0B0" stroke-width="4"/>
+  
+  <!-- Face -->
+  <circle cx="236" cy="180" r="5" fill="#000000"/>
+  <circle cx="276" cy="180" r="5" fill="#000000"/>
+  <path d="M246 200 Q256 210, 266 200" stroke="#000000" stroke-width="3" fill="none"/>
+  
+  <!-- Blush -->
+  <circle cx="226" cy="190" r="10" fill="#FFCCCC" opacity="0.7"/>
+  <circle cx="286" cy="190" r="10" fill="#FFCCCC" opacity="0.7"/>
+  
+  <!-- Arms -->
+  <path d="M196 190 L176 170" stroke="#FFC0CB" stroke-width="6" fill="none"/>
+  <path d="M316 190 L336 170" stroke="#FFC0CB" stroke-width="6" fill="none"/>
+  
+  <!-- Hands -->
+  <circle cx="170" cy="165" r="6" fill="#FFC0CB"/>
+  <circle cx="342" cy="165" r="6" fill="#FFC0CB"/>
+  
+  <!-- Legs -->
+  <path d="M246 260 L236 290" stroke="#FFC0CB" stroke-width="6" fill="none"/>
+  <path d="M266 260 L276 290" stroke="#FFC0CB" stroke-width="6" fill="none"/>
+  
+  <!-- Feet -->
+  <circle cx="232" cy="295" r="6" fill="#FFC0CB"/>
+  <circle cx="280" cy="295" r="6" fill="#FFC0CB"/>
+  
+  <!-- Sparkles -->
+  <path d="M316 120 L326 130 M316 130 L326 120" stroke="#FFD700" stroke-width="3"/>
+  <path d="M196 120 L206 130 M196 130 L206 120" stroke="#FFD700" stroke-width="3"/>
+</svg>
